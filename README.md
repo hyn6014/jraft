@@ -1,2 +1,2 @@
-# simple-raft
-raft 一致性算法的简单实现
+# jraft
+raft 一致性算法java的简单实现
