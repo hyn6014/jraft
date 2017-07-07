@@ -6,7 +6,11 @@
 
     <groupId>com.github.hyn6014.jraft</groupId>
     <artifactId>jraft-parent</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>transport</module>
+    </modules>
 
-    
+
 </project>
